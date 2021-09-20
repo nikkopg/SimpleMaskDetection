@@ -1,6 +1,6 @@
 # SimpleMaskDetection
 Mask Detection using Fine-tuned DenseNet121 model.
-Trained with masked, not properly wore mask, and not masked of 1000 faces each.
+Trained with masked, not properly worn mask, and not masked of 1000 faces each.
 
 ## Requirements
 ```
