@@ -12,7 +12,7 @@ keras = 2.4.3
 ## How to use:
 1. Download all files
 2. Put all in the same directory 
-3. Run *python maskNet.py* on command prompt
+3. Run *python <your_directory>/maskNet.py* on command prompt
 4. Have fun
 
 ## Demo preview
