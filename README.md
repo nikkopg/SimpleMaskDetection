@@ -15,4 +15,5 @@ keras = 2.4.3
 3. Run *python maskNet.py* on command prompt
 4. Have fun
 
-
+## Demo preview
+![preview](https://user-images.githubusercontent.com/70200533/133961770-cc0711da-55fa-4cde-84b5-70fc45c20999.gif)
